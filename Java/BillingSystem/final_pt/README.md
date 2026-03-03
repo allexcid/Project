@@ -10,7 +10,7 @@ Recharge - Add money to account
 History - View past transactions
 
 final_pt/
- UtilityPaymentSystem.java  # Main window
+UtilityPaymentSystem.java  # Main window
 User.java                  # User info
 WaterBillPanel.java        # Water bill
 ElectricityBillPanel.java  # Electricity bill
